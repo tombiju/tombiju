@@ -4,9 +4,7 @@
   - Shows/Movies
   - Video games
 - 🌱 I’m currently learning ...
-  - Vue.js
-  - Pinia
-  - Integration Testing
+  - Deep Learning
 - 💞️ I’m looking to collaborate on ...
   - Any projects, particularly science ones
 - 📫 How to reach me ...
